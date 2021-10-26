@@ -24,18 +24,18 @@ There were no significant challenges encountered with this dataset.
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+#### What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. Louise should plan her campaigns in the months of May and June for it to have a chance of a successful campaign. May and June also are the months when there are maximum number of campaigns. 
 2. The data shows that almost all the campaigns in the month of December has failed. Louise should avoid launching a campaign in the month of December. 
 
-- What can you conclude about the Outcomes based on Goals?
+#### What can you conclude about the Outcomes based on Goals?
 Louise will have ~75% chance of a successful campaign if she keeps her goal below $5000. There is only a ~50% chance that she can achieve her original goal of raising $10,000
 
-- What are some limitations of this dataset?
+#### What are some limitations of this dataset?
 1. There are not significant number of data points for campaigns with higher goal amounts. This makes the analysis slightly skewed towards campaigns with lower goal amounts. 
 2. We see that while it is possible to say that campaigns under $5000 are ~75% successful, since the median pledged amounts for failed campaigns are much lower than for successful campaigns, there could be other reasons due to which the campaigns failed other than the goal amounts which is not provided in the dataset. 
 
-- What are some other possible tables and/or graphs that we could create?
+#### What are some other possible tables and/or graphs that we could create?
 ##### 1. Statistics Table 
 This Table shows the Mean, Median, Mode, Standard Deviation and Quartiles. This table would tell us how far the data is spread about the mean, where we can look for outliers so that Louise can eliminate data points not relevant to her needs. 
 ![image](https://user-images.githubusercontent.com/75961057/138793226-64b7fcbf-f1f0-4abe-83ee-1dead6b9f5ed.png)
