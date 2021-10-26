@@ -1,8 +1,8 @@
-# Crowdfunding Data Analysis with Excel 
+# Data Analysis with Excel on Crowdfunding Dataset
 ## Overview of Project
 Louise is a playwright who has written a new play called, "Fever". She wants to launch a crowdfunding campaign to fund her play in the United States and estimates that the play's budget would be $10,000. The aim of this data analysis is to uncover invaluable information that can help our client Louise decide whether she will be able to successfully launch a crowdfunding campaign to fund her play.
 ### Purpose
-Analysis is done on the crowdfunding dataset that contains information on goal and pledged campaign amounts, campaign status divided geographically, and by categories. Louise wants to know if there are specific factors that can make the project campaign successful. 
+Analysis is done with Excel on the crowdfunding dataset that contains information on goal and pledged campaign amounts, campaign status divided geographically, and by categories. Louise wants to know if there are specific factors that can make the project campaign successful. 
 
 ### Analysis of Outcomes Based on Launch Date
 
